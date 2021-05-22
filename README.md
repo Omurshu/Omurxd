@@ -1,4 +1,4 @@
-   ![Logo](https://cdn.discordapp.com/attachments/818912205755777025/845702987706925076/xddd.jpg)
+   ![Logo](https://wallpapercave.com/wp/wp8650434.jpg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omurxd&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
