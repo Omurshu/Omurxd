@@ -8,3 +8,7 @@
   <a href="https://instagram.com/omurxddddd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.youtube.com/channel/UCyPbQYCyHvNmreeHIBRSoGA" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-191717.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="starkgithubistatistik" /></p> 
