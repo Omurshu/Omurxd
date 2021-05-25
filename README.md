@@ -10,7 +10,7 @@
 <p align = "center">
 <img src="https://profile-counter.glitch.me/{Omurxd}/count.svg" />
 </p>
-         <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omurxd&label=Profile%50views&color=0e75b6&style=flat" alt="omurxdgithubistatistik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omurxd&label=Profile%50views&color=0e75b6&style=flat" alt="omurxdgithubistatistik" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
