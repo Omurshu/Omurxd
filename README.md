@@ -5,7 +5,7 @@
  <a href="https://www.youtube.com/channel/UCyPbQYCyHvNmreeHIBRSoGA" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-191717.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-                                                        Profilime kaç kişi baktı
+                                                      Profilime kaç kişi baktı
 </p>
 <p align = "center">
 <img src="https://profile-counter.glitch.me/{Omurxd}/count.svg" />
