@@ -8,7 +8,7 @@
 
 
 
-  <a href="https://open.spotify.com/user/31za5y5alv3ebaijpvgrq4qr6xme" target"blank_"><img src="https://img.shields.io/badge/Spotify%20aCCOUNT%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/Omurxdddd" target"blank_"><img src="https://img.shields.io/badge/Spotify%20aCCOUNT%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
                                                        Profilime kaç kişi baktı
 </p>
