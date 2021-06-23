@@ -7,9 +7,6 @@
 
 
 
-
-  <a href="https://open.spotify.com/user/Omurxdddd" target"blank_"><img src="https://img.shields.io/badge/Spotify%20aCCOUNT%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
                                                        Profilime kaç kişi baktı
 </p>
 <p align = "center">
