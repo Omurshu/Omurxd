@@ -5,15 +5,8 @@
  <a href="https://www.youtube.com/channel/UCyPbQYCyHvNmreeHIBRSoGA" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-191717.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-   [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ömürxd Spotify Playing" width="350" />](https://open.spotify.com/user/31za5y5alv3ebaijpvgrq4qr6xme)
-
-
                                                                                                              
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754716020303724574?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/754716020303724574)
-                                                       
-                                                       
-                                                       
-                                                     
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754716020303724574?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/754716020303724574)                                              
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
