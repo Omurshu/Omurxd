@@ -8,10 +8,9 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377152186234437633?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/377152186234437633)
-
                                                                                                              
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754716020303724574?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/754716020303724574)                                              
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368787784581906452?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/368787784581906452)        
+
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
