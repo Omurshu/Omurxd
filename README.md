@@ -17,6 +17,6 @@
                                                        
                                                        
                                                      
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
