@@ -9,8 +9,7 @@
 
 
                                                        Profilime kaç kişi baktı
-                                                       
-                                                       
+                                                                                                       
                                                        
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754716020303724574?theme=light&bg=ffffff&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/754716020303724574)
                                                        
