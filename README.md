@@ -9,3 +9,10 @@
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omurxd&theme=radical" alt="omurxdgithubistatistik" /></p> 
+
+
+<div align="center">
+   <a href="https://discord.com/users/754716020303724574" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/754716020303724574?bg=111111">
+   </a>
+</div>
