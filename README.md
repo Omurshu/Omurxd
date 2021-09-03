@@ -5,7 +5,7 @@
  <a href="https://www.youtube.com/channel/UCyPbQYCyHvNmreeHIBRSoGA" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-191717.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
- <a href="https://open.spotify.com/user/31za5y5alv3ebaijpvgrq4qr6xme" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
 
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omurxd&show_icons=true&theme=radical" alt="omurxdgithubistatistik" /></p>
 
