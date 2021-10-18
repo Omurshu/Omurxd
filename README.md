@@ -1,7 +1,7 @@
    ![Logo](https://wallpapercave.com/wp/wp8650343.jpg)
 <p align="center">
    
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/415147004314910730
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368787784581906452
                             )](https://discord.com/users/368787784581906452)
 
 ![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS&color=dc143c)
