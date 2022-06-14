@@ -5,4 +5,5 @@
 </p>
 
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/228915240786460672)](https://discord.com/users/368787784581906452)
 
