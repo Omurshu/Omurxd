@@ -4,6 +4,5 @@
  <a href="https://www.youtube.com/channel/UCyPbQYCyHvNmreeHIBRSoGA" target"blank_"><img src="https://img.shields.io/badge/YOUTUBE%20-191717.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368787784581906452)](https://discord.com/users/368787784581906452)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368787784581906452)](https://discord.com/users/368787784581906452)
 
